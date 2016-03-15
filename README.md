@@ -1,0 +1,2 @@
+# ECHONETLite-DefineData
+ECHONETLiteの 仕様をプログラムから使いやすいデータにして公開する
